@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sejal Pawar</h1>
 <h3 align="center">☁️ Cloud & DevOps Enthusiast | Automating Infrastructure with AWS & CI/CD</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="DevOps GIF">
+</p>
+
 ---
 
-### 💡 About Me
-
-I'm passionate about **cloud-native technologies**, **automation**, and **modern DevOps practices** that enhance software delivery and infrastructure management.  
-I'm eager to apply my skills in a **DevOps or Cloud Engineering** role, contributing to:
-- ⚙️ Infrastructure Automation
-- ☁️ Scalable Deployments
-- 📈 Continuous Improvement  
-...while continuously learning and growing!
+<p align="center">
+  👩‍💻 I'm a passionate Cloud and DevOps enthusiast who thrives on building scalable, reliable, and automated cloud infrastructures. <br>
+  With hands-on experience in tools like AWS, Jenkins, Docker, Terraform, and GitHub Actions, <br>
+  I aim to bridge the gap between development and operations through effective CI/CD practices. <br><br>
+  🔧 I'm currently deep-diving into Infrastructure as Code (IaC), container orchestration, and monitoring solutions <br>
+  to help teams release faster with confidence. <br><br>
+  🚀 Eager to grow as a Cloud/DevOps Engineer and contribute to projects that challenge me to learn and innovate every day!
+</p>
 
 ---
 
@@ -116,7 +120,13 @@ I'm eager to apply my skills in a **DevOps or Cloud Engineering** role, contribu
 
 ---
 
-### 📫 Reach Me
-📧 Email: **sejalsubhash1104@gmail.com**  
-🔗 LinkedIn: [linkedin.com/in/sejalspawar](https://www.linkedin.com/in/sejalspawar)
+### 📫 Contact Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sejalspawar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/> LinkedIn
+  </a> |
+  <a href="mailto:sejalsubhash1104@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" width="30" height="30"/> sejalsubhash1104@gmail.com
+  </a>
+</p>
