@@ -64,7 +64,7 @@
 </a>
  -->
 <a href="https://aws.amazon.com/cloudformation/" target="_blank">
-  <img src="https://miro.medium.com/v2/resize:fit:1200/0*yJwBC8C3G8MgfyUp.png" alt="CloudFormation" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzGLlPqpEbrb9yFSfCEqzAFsan5rowLjjhgA&s" alt="CloudFormation" width="40" height="40"/>
 </a>
 
 
