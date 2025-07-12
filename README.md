@@ -24,6 +24,7 @@
 <a href="https://www.linux.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </a>
+
 ---
 
 #### ☁️ Cloud Platforms  
@@ -40,6 +41,7 @@
 <a href="https://github.com/" target="_blank">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
 </a>
+
 ---
 
 #### 🧩 Programming & Scripting  
@@ -49,7 +51,6 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="40" height="40"/>
 </a>
-
 
 ---
 
@@ -63,7 +64,7 @@
 </a>
  -->
 <a href="https://aws.amazon.com/cloudformation/" target="_blank">
-  <img src="https://raw.githubusercontent.com/aws/aws-cloudformation-user-guide/main/doc_source/images/cloudformation_graphic.png" alt="CloudFormation" width="40" height="40"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1200/0*yJwBC8C3G8MgfyUp.png" alt="CloudFormation" width="40" height="40"/>
 </a>
 
 
