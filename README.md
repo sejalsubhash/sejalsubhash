@@ -2,7 +2,7 @@
 <h3 align="center">☁️ Cloud & DevOps Enthusiast | Automating Infrastructure with AWS & CI/CD</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Cloud GIF">
+  <img src="https://miro.medium.com/v2/resize:fit:720/1*H_h5eB3YWqvgW_xodb4Vow.gif" width="300" alt="Cloud GIF">
 </p>
 
 ---
