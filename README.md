@@ -37,7 +37,7 @@
 #### 📂 Version Control  
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</a> &nbsp;&nbsp;&nbsp;
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/" target="_blank">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
 </a>
@@ -47,7 +47,7 @@
 #### 🧩 Programming & Scripting  
 <a href="https://www.python.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="40" height="40"/>
 </a>
@@ -73,10 +73,10 @@
 #### 🚀 CI/CD  
 <a href="https://www.jenkins.io/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-</a>
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/features/actions" target="_blank">
   <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="GitHub Actions" width="40" height="40"/>
-</a>
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://aws.amazon.com/codepipeline/" target="_blank">
   <img src="https://raw.githubusercontent.com/aws/aws-codestar/master/images/codepipeline.png" alt="AWS CodePipeline" width="40" height="40"/>
 </a>
@@ -99,7 +99,7 @@
 #### 📦 Containers & Orchestration  
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-</a>
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://kubernetes.io/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
 </a>
@@ -109,8 +109,7 @@
 #### 📚 Databases  
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</a>
-
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon.png" alt="MySQL" width="40" height="40"/>
 </a>
@@ -122,7 +121,7 @@
 #### 📊 Monitoring & Logging  
 <a href="https://prometheus.io/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/>
-</a>
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://grafana.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
 </a>
@@ -146,7 +145,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sejalspawar" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30" height="30"/> LinkedIn
-  </a> |
+  </a> |&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:sejalsubhash1104@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="30" height="30"/> sejalsubhash1104@gmail.com
   </a>
