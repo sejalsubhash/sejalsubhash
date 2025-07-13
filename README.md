@@ -93,7 +93,7 @@
 <a href="https://aquasecurity.github.io/trivy/" target="_blank">
   <img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" alt="Trivy" width="40" height="40"/>
 </a>
--->
+
 ---
 
 #### 📦 Containers & Orchestration  
@@ -103,7 +103,7 @@
 <a href="https://kubernetes.io/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
 </a>
-
+-->
 ---
 
 #### 📚 Databases  
@@ -119,14 +119,17 @@
 ---
 
 #### 📊 Monitoring & Logging  
+<!--
 <a href="https://prometheus.io/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/>
 </a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://grafana.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
 </a>
-
-
+-->
+<a href="https://aws.amazon.com/cloudwatch/" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTluJb6OizZXPRfLcHyzJahLjc7Ye9xwbfvpQ&s" alt="CloudWatch" width="40" height="40"/>
+</a>
 ---
 
 ### 📫 Contact Me
