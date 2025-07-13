@@ -111,6 +111,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </a>
 
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon.png" alt="MySQL" width="40" height="40"/>
+</a>
+
+
+
 ---
 
 #### 📊 Monitoring & Logging  
