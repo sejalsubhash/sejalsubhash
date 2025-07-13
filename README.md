@@ -37,7 +37,7 @@
 #### 📂 Version Control  
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</a>
+</a> &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/" target="_blank">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
 </a>
