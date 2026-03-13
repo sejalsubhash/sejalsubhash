@@ -55,14 +55,14 @@
 ---
 
 #### 🏗️ Infrastructure as Code  
-<!-- 
+ 
 <a href="https://www.terraform.io/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
 </a>
  <a href="https://www.ansible.com/" target="_blank">
   <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="Ansible" width="40" height="40"/>
 </a>
- -->
+
 <a href="https://aws.amazon.com/cloudformation/" target="_blank">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzGLlPqpEbrb9yFSfCEqzAFsan5rowLjjhgA&s" alt="CloudFormation" width="40" height="40"/>
 </a>
